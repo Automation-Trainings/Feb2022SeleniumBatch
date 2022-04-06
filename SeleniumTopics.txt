@@ -1,0 +1,59 @@
+to open browser: driver.get();, driver.navigate().to(); //Assignment for tomorrow
+
+Topics to cover:
+1. TextBox - Completed
+2. Buttons - Completed
+3. DropDowns - sendKeys, Select class - Completed
+4. HyperLinks - Completed
+5. URL - driver.getCurrentUrl();
+6. Radio Buttons - Completed
+7. WebTables - Completed
+8. Check boxes - 
+9. Labels - Completed
+10. Calenders - 
+11. Alerts - Completed
+12. Window and Tabs handling - Completed
+13. Pop-up - Completed
+14. Drag and drop
+15. IFrames - Completed
+16. Mousehover - 
+17. Exception handling - Try, Catch, Finally, Throws, Throw
+
+//Synchronization
+Implicit wait //This is applicable to the driver instance
+Explicit wait //This waits for the particular given time without any condition
+Fluent wait 
+
+driver.close(); //It will close current session
+driver.quit(); //It will close all the browser sessions
+
+
+input --> tagName
+id --> attribute
+"" --> value
+
+Two types of xpaths:
+1. Absolute
+- This starts from root node
+----------------------------------------------------------------
+2. Relative
+//tagName[@attribute='value'] - This starts from the current node
+//input[@id="email"]
+------------------------------------------------------------
+3. Xpath using and operator (Both the condition should be true)
+//tagName[@attribute='value' and @attribute='value']
+//*[@class='custom-control-label' and @for='yesRadio']
+-------------------------------------------------------------
+4. Xpath using or operator (Either of condition is true)
+//tagName[@attribute='value' or @attribute='value']
+//*[@class='custom-control-label' or @for='yesRadio']
+------------------------------------------
+5. Using text
+//tagname=[text()='value']
+//*[text()='Male']
+
+CDwindow-1E74080EB92A65DD1094491B29C585D9
+
+CDwindow-E618D6B348838E2816AF422FE456EC33
+
+

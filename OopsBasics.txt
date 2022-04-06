@@ -1,0 +1,34 @@
+OOPS Features:
+*********************
+1. Inheritance --> Completed -- Child class can also be called derived class
+2. Encapsulation --> Completed
+3. Abstraction --> Completed -- We cannot create instance for an abstract class
+4. Polymorphism --> MethodOverloading/MethodOverriding --> Completed
+5. Interface --> Completed
+
+
+Test2 		obj 		= 	new 						Test2();
+Class name	Instance/Object		new keyword is used to crate an object		Constructor
+
+OOPS Basics:
+*********************
+Properties/variables --> Completed
+Methods/Behaviour --> 
+Class --> 
+Object --> 
+Instances (Objects of class) --> 
+How do we write methods and call methods --> 
+How we can pass the parameters --> 
+How we can return the data --> 
+Access modifiers --> public, private, protected, default - to limit its scope
+Difference between static and non-static --> 
+final keyword (Ex: constant variable) --> 
+this and super keywords --> 
+Constructor --> 
+Advanced for loop -->
+String Buffer --> Thread safe - It will take request as first come first serve
+String Builder --> Not Thread - safe - It will execute multiple reqest at a time
+break and continue --> 
+Excel workings --> 
+
+
