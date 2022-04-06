@@ -6,7 +6,6 @@ OOPS Features:
 4. Polymorphism --> MethodOverloading/MethodOverriding --> Completed
 5. Interface --> Completed
 
-
 Test2 		obj 		= 	new 						Test2();
 Class name	Instance/Object		new keyword is used to crate an object		Constructor
 
@@ -30,5 +29,3 @@ String Buffer --> Thread safe - It will take request as first come first serve
 String Builder --> Not Thread - safe - It will execute multiple reqest at a time
 break and continue --> 
 Excel workings --> 
-
-
